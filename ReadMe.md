@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Oi, eu sou o Caíque!<br>🎓 Tenho 17 anos e estou no 3º ano de Análise e Desenvolvimento de Sistemas em SP.<br>💻 Apaixonado por front-end e back-end.<br>🚀 Atualmente explorando React e Node.<br>🌱 Buscando aprender constantemente e aprimorar minhas habilidades.<br>🤖 Fascinado por automação e inteligência artificial.<br>📚 Além de programar, também curto explorar novas tecnologias e frameworks.
+<br>👋 Oi, eu sou o Caíque!<br>🎓 Tenho 18 anos e estou no 3º ano de Análise e Desenvolvimento de Sistemas em SP.<br>💻 Apaixonado por front-end e back-end.<br>🚀 Atualmente explorando React e Node.<br>🌱 Buscando aprender constantemente e aprimorar minhas habilidades.<br>🤖 Fascinado por automação e inteligência artificial.<br>📚 Além de programar, também curto explorar novas tecnologias e frameworks.
 
 
 # 💻 Tech Stack:
