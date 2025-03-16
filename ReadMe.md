@@ -1,8 +1,6 @@
-<h3 align="center">About me ✨</h3>
+<h2 align="left">About me ✨</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">🎓 I'm 18 years old and a Systems Development Technician from SP.<br>💻 Passionate about front-end and back-end development.<br>🚀 Currently exploring React and Node.<br>🌱 Always looking to learn and improve my skills.<br>📚 Besides programming, I also enjoy exploring new technologies and frameworks.</p>
 
@@ -11,6 +9,7 @@
 <h3 align="left">My Tech Stacks 👨‍💻</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -46,7 +45,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiquesantosss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
