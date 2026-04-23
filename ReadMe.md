@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm 18 years old, a Systems Development Technician from SP, and currently pursuing a degree in Information Technology Management at Fatec Itaquaquecetuba.<br>💻 Passionate about front-end and back-end development.<br>🚀 Currently exploring React, Node, Java, Spring Boot, and Docker.<br>🌱 Always looking to learn and improve my skills.<br>📚 Besides programming, I also enjoy exploring new technologies and frameworks.</p>
+<p align="left">🎓 I'm 19 years old, a Systems Development Technician from SP, and currently pursuing a degree in Information Technology Management at Fatec Itaquaquecetuba.<br>💻 Passionate about front-end and back-end development.<br>🚀 Currently exploring React, Node, Java, Spring Boot, and Docker.<br>🌱 Always looking to learn and improve my skills.<br>📚 Besides programming, I also enjoy exploring new technologies and frameworks.</p>
 
 ###
 
